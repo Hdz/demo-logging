@@ -1,0 +1,22 @@
+../
+target/
+../operateurs-console/
+../oprateurs-console/
+../pizzeria-console-objet/
+../pizzeria-console-objet2/
+../tp0-maven/
+../tp_livre/
+../workshop-java8/
+../zoo-exemple-cours/
+ ../.gitignore
+../Formation-Git/
+../GSBJava/
+../JDBC/
+../Operateurs-console.jar
+../Servers/
+../TD Java 8/
+../Test/
+../approche-objet/
+.classpath
+.project
+.settings/
